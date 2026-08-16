@@ -63,7 +63,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-09T10:08:22Z",
+            "last_commit": "2026-08-16T01:15:20Z",
             "owner": "sdr-enthusiasts",
             "repo": "plane-alert-db",
             "stars": 143
@@ -111,10 +111,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-09T05:51:27Z",
+            "last_commit": "2026-08-16T05:34:06Z",
             "owner": "sdr-enthusiasts",
             "repo": "docker-adsb-ultrafeeder",
-            "stars": 552
+            "stars": 553
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2026-07-28T19:07:01Z",
             "owner": "wiedehopf",
             "repo": "tar1090",
-            "stars": 1870
+            "stars": 1872
           }
         },
         {
@@ -196,7 +196,7 @@
             "last_commit": "2026-02-05T05:52:03Z",
             "owner": "Jxck-S",
             "repo": "plane-notify",
-            "stars": 2544
+            "stars": 2545
           }
         },
         {
@@ -238,7 +238,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T06:41:47.669Z",
+    "last_updated": "2026-08-16T06:43:40.851Z",
     "original_repository": "rickstaa/awesome-adsb",
     "original_repository_sha": "72205199a67965bf8990fe91efb0de23cf66172e",
     "enhanced_repository": "enhansome/enhansome-adsb",

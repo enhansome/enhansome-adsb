@@ -52,7 +52,7 @@
             "last_commit": "2026-08-10T17:46:19Z",
             "owner": "wiedehopf",
             "repo": "readsb",
-            "stars": 652
+            "stars": 653
           }
         },
         {
@@ -91,7 +91,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T03:32:09Z",
+            "last_commit": "2026-08-16T17:37:27Z",
             "owner": "eastham",
             "repo": "adsb_actions",
             "stars": 4
@@ -128,7 +128,7 @@
             "last_commit": "2025-08-29T19:42:15Z",
             "owner": "adsbfi",
             "repo": "adsb-fi-scripts",
-            "stars": 178
+            "stars": 179
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2026-07-28T19:07:01Z",
             "owner": "wiedehopf",
             "repo": "tar1090",
-            "stars": 1872
+            "stars": 1874
           }
         },
         {
@@ -238,7 +238,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T06:43:40.851Z",
+    "last_updated": "2026-08-17T07:00:28.458Z",
     "original_repository": "rickstaa/awesome-adsb",
     "original_repository_sha": "72205199a67965bf8990fe91efb0de23cf66172e",
     "enhanced_repository": "enhansome/enhansome-adsb",

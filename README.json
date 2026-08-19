@@ -38,7 +38,7 @@
             "last_commit": "2026-07-23T17:20:19Z",
             "owner": "junzis",
             "repo": "pyModeS",
-            "stars": 665
+            "stars": 666
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2026-07-28T19:07:01Z",
             "owner": "wiedehopf",
             "repo": "tar1090",
-            "stars": 1876
+            "stars": 1877
           }
         },
         {
@@ -196,7 +196,7 @@
             "last_commit": "2026-02-05T05:52:03Z",
             "owner": "Jxck-S",
             "repo": "plane-notify",
-            "stars": 2545
+            "stars": 2543
           }
         },
         {
@@ -238,7 +238,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T06:48:11.234Z",
+    "last_updated": "2026-08-19T06:48:57.726Z",
     "original_repository": "rickstaa/awesome-adsb",
     "original_repository_sha": "72205199a67965bf8990fe91efb0de23cf66172e",
     "enhanced_repository": "enhansome/enhansome-adsb",

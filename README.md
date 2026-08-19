@@ -142,7 +142,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 
 * [dump1090](https://github.com/MalcolmRobb/dump1090) ⭐ 1,104 | 🐛 39 | 🌐 C | 📅 2024-08-14 - A simple Mode S decoder for RTLSDR devices.
 * [junzis/pyModeS](https://github.com/junzis/pyModeS) ⭐ 666 | 🐛 9 | 🌐 Python | 📅 2026-07-23 - A python decoder for Mode S and ADS-B signals.
-* [readsb](https://github.com/wiedehopf/readsb) ⭐ 655 | 🐛 10 | 🌐 C | 📅 2026-08-17 - ADS-B decoder swiss knife.
+* [readsb](https://github.com/wiedehopf/readsb) ⭐ 656 | 🐛 10 | 🌐 C | 📅 2026-08-17 - ADS-B decoder swiss knife.
 * [sdr-enthusiasts/plane-alert-db](https://github.com/sdr-enthusiasts/plane-alert-db) ⭐ 143 | 🐛 8 | 🌐 Python | 📅 2026-08-16 - A list of exciting aircraft - Governments, Dictators, Military, Historical and just plain odd.
 * [flightmon](https://github.com/mik3y/flightmon) ⭐ 20 | 🐛 1 | 🌐 Go | 📅 2020-06-13 - Simple command-line "GUI" for showing current dump1090/readsb data.
 * [adsb\_actions](https://github.com/eastham/adsb_actions) ⭐ 4 | 🐛 8 | 🌐 Python | 📅 2026-08-16 - Python tool to detect, act on, and visualize ADS-B traffic and events.

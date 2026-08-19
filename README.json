@@ -1,245 +1,239 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "ADS-B Aggregators"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "dump1090",
+              "description": "A simple Mode S decoder for RTLSDR devices.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9276435,
+                "language": "C",
+                "last_commit": "2024-08-14T23:53:13Z",
+                "owner": "MalcolmRobb",
+                "repo": "dump1090",
+                "stars": 1104
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "junzis/pyModeS",
+              "description": "A python decoder for Mode S and ADS-B signals.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32406884,
+                "language": "Python",
+                "last_commit": "2026-07-23T17:20:19Z",
+                "owner": "junzis",
+                "repo": "pyModeS",
+                "stars": 666
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "readsb",
+              "description": "ADS-B decoder swiss knife.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 326161007,
+                "language": "C",
+                "last_commit": "2026-08-17T17:32:58Z",
+                "owner": "wiedehopf",
+                "repo": "readsb",
+                "stars": 656
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sdr-enthusiasts/plane-alert-db",
+              "description": "A list of exciting aircraft - Governments, Dictators, Military, Historical and just plain odd.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 347022933,
+                "language": "Python",
+                "last_commit": "2026-08-16T01:15:20Z",
+                "owner": "sdr-enthusiasts",
+                "repo": "plane-alert-db",
+                "stars": 143
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "flightmon",
+              "description": "Simple command-line \"GUI\" for showing current dump1090/readsb data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 271656992,
+                "language": "Go",
+                "last_commit": "2020-06-13T14:32:51Z",
+                "owner": "mik3y",
+                "repo": "flightmon",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "adsb_actions",
+              "description": "Python tool to detect, act on, and visualize ADS-B traffic and events.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 736411939,
+                "language": "Python",
+                "last_commit": "2026-08-16T17:37:27Z",
+                "owner": "eastham",
+                "repo": "adsb_actions",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "General"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "sdr-enthusiasts/docker-adsb-ultrafeeder",
+              "description": "All-in-one ADSB container with readsb, tar1090, graphs1090, autogain, multi-feeder, and mlat-hub built in.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 616883526,
+                "language": "Shell",
+                "last_commit": "2026-08-16T05:34:06Z",
+                "owner": "sdr-enthusiasts",
+                "repo": "docker-adsb-ultrafeeder",
+                "stars": 554
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "adsbfi/adsb-fi-scripts",
+              "description": "Easy to use feeder install script for feeding to adsb.fi.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 594016888,
+                "language": "Shell",
+                "last_commit": "2025-08-29T19:42:15Z",
+                "owner": "adsbfi",
+                "repo": "adsb-fi-scripts",
+                "stars": 179
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "adsblol/feed",
+              "description": "Easy to use, container-based MLAT/ADS-B/ACARS/VDL2 multi feed client. Powered by SDR-Enthusiasts images.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 596639326,
+                "language": "Shell",
+                "last_commit": "2024-10-18T18:15:11Z",
+                "owner": "adsblol",
+                "repo": "feed",
+                "stars": 79
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Feeding"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "wiedehopf/tar1090",
+              "description": "A great way to view your ADS-B data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 182764313,
+                "language": "JavaScript",
+                "last_commit": "2026-07-28T19:07:01Z",
+                "owner": "wiedehopf",
+                "repo": "tar1090",
+                "stars": 1877
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "amnesica/BelugaProject",
+              "description": "A web application that displays data of one or multiple, local ADS-B feeders and AIS-data along with additional information on a map interface in the browser.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 334482255,
+                "language": "TypeScript",
+                "last_commit": "2026-07-07T18:55:24Z",
+                "owner": "amnesica",
+                "repo": "BelugaProject",
+                "stars": 83
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Visualisation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Jxck-S/plane-notify",
+              "description": "Notify if a selected plane has taken off or landed using OpenSky or ADS-B Exchange data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 270504039,
+                "language": "Python",
+                "last_commit": "2026-02-05T05:52:03Z",
+                "owner": "Jxck-S",
+                "repo": "plane-notify",
+                "stars": 2543
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "docker-planefence",
+              "description": "A little tool that can be used to log, display and tweet the aircraft that come within range of your receiver (i.e. the fence).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 948559585,
+                "language": null,
+                "last_commit": "2025-03-12T22:57:33Z",
+                "owner": "kx1t",
+                "repo": "docker-planefence",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Social"
+        }
+      ],
       "title": "Software"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "dump1090",
-          "description": "A simple Mode S decoder for RTLSDR devices.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-08-14T23:53:13Z",
-            "owner": "MalcolmRobb",
-            "repo": "dump1090",
-            "stars": 1104
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "junzis/pyModeS",
-          "description": "A python decoder for Mode S and ADS-B signals.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-23T17:20:19Z",
-            "owner": "junzis",
-            "repo": "pyModeS",
-            "stars": 666
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "readsb",
-          "description": "ADS-B decoder swiss knife.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-17T17:32:58Z",
-            "owner": "wiedehopf",
-            "repo": "readsb",
-            "stars": 655
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sdr-enthusiasts/plane-alert-db",
-          "description": "A list of exciting aircraft - Governments, Dictators, Military, Historical and just plain odd.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-16T01:15:20Z",
-            "owner": "sdr-enthusiasts",
-            "repo": "plane-alert-db",
-            "stars": 143
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "flightmon",
-          "description": "Simple command-line \"GUI\" for showing current dump1090/readsb data.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2020-06-13T14:32:51Z",
-            "owner": "mik3y",
-            "repo": "flightmon",
-            "stars": 20
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "adsb_actions",
-          "description": "Python tool to detect, act on, and visualize ADS-B traffic and events.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-16T17:37:27Z",
-            "owner": "eastham",
-            "repo": "adsb_actions",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "General"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "sdr-enthusiasts/docker-adsb-ultrafeeder",
-          "description": "All-in-one ADSB container with readsb, tar1090, graphs1090, autogain, multi-feeder, and mlat-hub built in.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-08-16T05:34:06Z",
-            "owner": "sdr-enthusiasts",
-            "repo": "docker-adsb-ultrafeeder",
-            "stars": 554
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "adsbfi/adsb-fi-scripts",
-          "description": "Easy to use feeder install script for feeding to adsb.fi.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2025-08-29T19:42:15Z",
-            "owner": "adsbfi",
-            "repo": "adsb-fi-scripts",
-            "stars": 179
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "adsblol/feed",
-          "description": "Easy to use, container-based MLAT/ADS-B/ACARS/VDL2 multi feed client. Powered by SDR-Enthusiasts images.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2024-10-18T18:15:11Z",
-            "owner": "adsblol",
-            "repo": "feed",
-            "stars": 79
-          }
-        }
-      ],
-      "title": "Feeding"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "wiedehopf/tar1090",
-          "description": "A great way to view your ADS-B data.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-28T19:07:01Z",
-            "owner": "wiedehopf",
-            "repo": "tar1090",
-            "stars": 1877
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "amnesica/BelugaProject",
-          "description": "A web application that displays data of one or multiple, local ADS-B feeders and AIS-data along with additional information on a map interface in the browser.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-07T18:55:24Z",
-            "owner": "amnesica",
-            "repo": "BelugaProject",
-            "stars": 83
-          }
-        }
-      ],
-      "title": "Visualisation"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Jxck-S/plane-notify",
-          "description": "Notify if a selected plane has taken off or landed using OpenSky or ADS-B Exchange data.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-02-05T05:52:03Z",
-            "owner": "Jxck-S",
-            "repo": "plane-notify",
-            "stars": 2543
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "docker-planefence",
-          "description": "A little tool that can be used to log, display and tweet the aircraft that come within range of your receiver (i.e. the fence).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-03-12T22:57:33Z",
-            "owner": "kx1t",
-            "repo": "docker-planefence",
-            "stars": 5
-          }
-        }
-      ],
-      "title": "Social"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Hardware"
-    },
-    {
-      "description": "Who else should we be following?",
-      "items": [],
-      "title": "Follow"
-    },
-    {
-      "description": "Contributions of any kind are welcome 💙! Please check out the contributing guidelines.\n",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "This project exists thanks to all the people that contributed!",
-      "items": [],
-      "title": "Contributors"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T06:48:57.726Z",
+    "last_updated": "2026-08-19T12:15:16.254Z",
     "original_repository": "rickstaa/awesome-adsb",
+    "original_repository_id": 607306805,
     "original_repository_sha": "72205199a67965bf8990fe91efb0de23cf66172e",
     "enhanced_repository": "enhansome/enhansome-adsb",
     "enhanced_repository_description": null,

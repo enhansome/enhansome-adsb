@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 326161007,
                 "language": "C",
-                "last_commit": "2026-08-17T17:32:58Z",
+                "last_commit": "2026-08-20T01:00:46Z",
                 "owner": "wiedehopf",
                 "repo": "readsb",
                 "stars": 656
@@ -129,7 +129,7 @@
                 "last_commit": "2025-08-29T19:42:15Z",
                 "owner": "adsbfi",
                 "repo": "adsb-fi-scripts",
-                "stars": 179
+                "stars": 180
               }
             },
             {
@@ -166,7 +166,7 @@
                 "last_commit": "2026-07-28T19:07:01Z",
                 "owner": "wiedehopf",
                 "repo": "tar1090",
-                "stars": 1877
+                "stars": 1879
               }
             },
             {
@@ -231,7 +231,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:15:16.254Z",
+    "last_updated": "2026-08-20T06:50:46.021Z",
     "original_repository": "rickstaa/awesome-adsb",
     "original_repository_id": 607306805,
     "original_repository_sha": "72205199a67965bf8990fe91efb0de23cf66172e",

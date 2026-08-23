@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 326161007,
                 "language": "C",
-                "last_commit": "2026-08-20T01:00:46Z",
+                "last_commit": "2026-08-22T14:44:23Z",
                 "owner": "wiedehopf",
                 "repo": "readsb",
                 "stars": 659
@@ -59,7 +59,7 @@
                 "archived": false,
                 "id": 347022933,
                 "language": "Python",
-                "last_commit": "2026-08-22T00:02:47Z",
+                "last_commit": "2026-08-22T13:05:53Z",
                 "owner": "sdr-enthusiasts",
                 "repo": "plane-alert-db",
                 "stars": 143
@@ -111,10 +111,10 @@
                 "archived": false,
                 "id": 616883526,
                 "language": "Shell",
-                "last_commit": "2026-08-16T05:34:06Z",
+                "last_commit": "2026-08-23T05:34:02Z",
                 "owner": "sdr-enthusiasts",
                 "repo": "docker-adsb-ultrafeeder",
-                "stars": 554
+                "stars": 555
               }
             },
             {
@@ -129,7 +129,7 @@
                 "last_commit": "2025-08-29T19:42:15Z",
                 "owner": "adsbfi",
                 "repo": "adsb-fi-scripts",
-                "stars": 180
+                "stars": 181
               }
             },
             {
@@ -166,7 +166,7 @@
                 "last_commit": "2026-07-28T19:07:01Z",
                 "owner": "wiedehopf",
                 "repo": "tar1090",
-                "stars": 1880
+                "stars": 1882
               }
             },
             {
@@ -203,7 +203,7 @@
                 "last_commit": "2026-02-05T05:52:03Z",
                 "owner": "Jxck-S",
                 "repo": "plane-notify",
-                "stars": 2543
+                "stars": 2544
               }
             },
             {
@@ -231,7 +231,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T06:43:13.097Z",
+    "last_updated": "2026-08-23T06:44:45.298Z",
     "original_repository": "rickstaa/awesome-adsb",
     "original_repository_id": 607306805,
     "original_repository_sha": "72205199a67965bf8990fe91efb0de23cf66172e",

@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-22T14:44:23Z",
                 "owner": "wiedehopf",
                 "repo": "readsb",
-                "stars": 659
+                "stars": 660
               }
             },
             {
@@ -166,7 +166,7 @@
                 "last_commit": "2026-07-28T19:07:01Z",
                 "owner": "wiedehopf",
                 "repo": "tar1090",
-                "stars": 1883
+                "stars": 1884
               }
             },
             {
@@ -188,6 +188,28 @@
           "description": null,
           "node_type": "group",
           "title": "Visualisation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "d4rken/adsb-meta-tracker",
+              "description": "An Android ADS-B Meta Tracker that shows metadata about ADS-B aggregators.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 609650758,
+                "language": "Kotlin",
+                "last_commit": "2023-03-07T11:31:06Z",
+                "owner": "d4rken",
+                "repo": "adsb-meta-tracker",
+                "stars": 13
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Apps"
         },
         {
           "children": [
@@ -231,7 +253,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T07:03:09.773Z",
+    "last_updated": "2026-08-24T14:26:28.042Z",
     "original_repository": "rickstaa/awesome-adsb",
     "original_repository_id": 607306805,
     "original_repository_sha": "72205199a67965bf8990fe91efb0de23cf66172e",

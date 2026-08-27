@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-22T14:44:23Z",
                 "owner": "wiedehopf",
                 "repo": "readsb",
-                "stars": 660
+                "stars": 661
               }
             },
             {
@@ -89,7 +89,7 @@
                 "archived": false,
                 "id": 736411939,
                 "language": "Python",
-                "last_commit": "2026-08-16T17:37:27Z",
+                "last_commit": "2026-08-26T15:23:01Z",
                 "owner": "eastham",
                 "repo": "adsb_actions",
                 "stars": 4
@@ -163,10 +163,10 @@
                 "archived": false,
                 "id": 182764313,
                 "language": "JavaScript",
-                "last_commit": "2026-07-28T19:07:01Z",
+                "last_commit": "2026-08-27T07:52:44Z",
                 "owner": "wiedehopf",
                 "repo": "tar1090",
-                "stars": 1884
+                "stars": 1887
               }
             },
             {
@@ -181,7 +181,7 @@
                 "last_commit": "2026-07-07T18:55:24Z",
                 "owner": "amnesica",
                 "repo": "BelugaProject",
-                "stars": 83
+                "stars": 84
               }
             }
           ],
@@ -253,9 +253,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T06:53:56.398Z",
-    "original_repository": "rickstaa/awesome-adsb",
-    "original_repository_id": 607306805,
+    "last_updated": "2026-08-27T11:22:19.127Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 607306805,
+      "language": "HTML",
+      "last_commit": "2026-06-19T10:12:51Z",
+      "owner": "rickstaa",
+      "repo": "awesome-adsb",
+      "stars": 374
+    },
     "original_repository_sha": "72205199a67965bf8990fe91efb0de23cf66172e",
     "enhanced_repository": "enhansome/enhansome-adsb",
     "enhanced_repository_description": null,

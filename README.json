@@ -18,7 +18,8 @@
                 "owner": "MalcolmRobb",
                 "repo": "dump1090",
                 "stars": 1104
-              }
+              },
+              "first_seen": "2026-08-28T18:20:32.292Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "junzis",
                 "repo": "pyModeS",
                 "stars": 667
-              }
+              },
+              "first_seen": "2026-08-28T18:20:32.292Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "wiedehopf",
                 "repo": "readsb",
                 "stars": 662
-              }
+              },
+              "first_seen": "2026-08-28T18:20:32.292Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "sdr-enthusiasts",
                 "repo": "plane-alert-db",
                 "stars": 143
-              }
+              },
+              "first_seen": "2026-08-28T18:20:32.292Z"
             },
             {
               "node_type": "item",
@@ -77,8 +81,9 @@
                 "last_commit": "2020-06-13T14:32:51Z",
                 "owner": "mik3y",
                 "repo": "flightmon",
-                "stars": 20
-              }
+                "stars": 21
+              },
+              "first_seen": "2026-08-28T18:20:32.292Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "eastham",
                 "repo": "adsb_actions",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T18:20:32.292Z"
             }
           ],
           "description": null,
@@ -115,7 +121,8 @@
                 "owner": "sdr-enthusiasts",
                 "repo": "docker-adsb-ultrafeeder",
                 "stars": 556
-              }
+              },
+              "first_seen": "2026-08-28T18:20:32.292Z"
             },
             {
               "node_type": "item",
@@ -129,8 +136,9 @@
                 "last_commit": "2025-08-29T19:42:15Z",
                 "owner": "adsbfi",
                 "repo": "adsb-fi-scripts",
-                "stars": 182
-              }
+                "stars": 184
+              },
+              "first_seen": "2026-08-28T18:20:32.292Z"
             },
             {
               "node_type": "item",
@@ -145,7 +153,8 @@
                 "owner": "adsblol",
                 "repo": "feed",
                 "stars": 79
-              }
+              },
+              "first_seen": "2026-08-28T18:20:32.292Z"
             }
           ],
           "description": null,
@@ -166,8 +175,9 @@
                 "last_commit": "2026-08-27T07:52:44Z",
                 "owner": "wiedehopf",
                 "repo": "tar1090",
-                "stars": 1887
-              }
+                "stars": 1888
+              },
+              "first_seen": "2026-08-28T18:20:32.292Z"
             },
             {
               "node_type": "item",
@@ -182,7 +192,8 @@
                 "owner": "amnesica",
                 "repo": "BelugaProject",
                 "stars": 85
-              }
+              },
+              "first_seen": "2026-08-28T18:20:32.292Z"
             }
           ],
           "description": null,
@@ -204,7 +215,8 @@
                 "owner": "d4rken",
                 "repo": "adsb-meta-tracker",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T18:20:32.292Z"
             }
           ],
           "description": null,
@@ -226,7 +238,8 @@
                 "owner": "Jxck-S",
                 "repo": "plane-notify",
                 "stars": 2544
-              }
+              },
+              "first_seen": "2026-08-28T18:20:32.292Z"
             },
             {
               "node_type": "item",
@@ -241,7 +254,8 @@
                 "owner": "kx1t",
                 "repo": "docker-planefence",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T18:20:32.292Z"
             }
           ],
           "description": null,
@@ -253,7 +267,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T17:27:05.994Z",
+    "last_updated": "2026-08-28T18:20:32.292Z",
     "original_repository_info": {
       "archived": false,
       "id": 607306805,

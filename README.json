@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dump1090 is a simple Mode S decoder for RTLSDR devices",
+                "homepage": null,
                 "id": 9276435,
                 "language": "C",
+                "license": null,
                 "last_commit": "2024-08-14T23:53:13Z",
+                "open_issues": 39,
                 "owner": "MalcolmRobb",
                 "repo": "dump1090",
-                "stars": 1104
+                "stars": 1104,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:20:32.292Z"
             },
@@ -28,12 +33,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python decoder for Mode S and ADS-B signals",
+                "homepage": null,
                 "id": 32406884,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-23T17:20:19Z",
+                "open_issues": 9,
                 "owner": "junzis",
                 "repo": "pyModeS",
-                "stars": 667
+                "stars": 667,
+                "topics": [
+                  "ads-b",
+                  "adsb",
+                  "aircraft",
+                  "ehs",
+                  "mode-s",
+                  "python",
+                  "tracking"
+                ]
               },
               "first_seen": "2026-08-28T18:20:32.292Z"
             },
@@ -44,12 +62,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ADS-B decoder swiss knife",
+                "homepage": null,
                 "id": 326161007,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-22T14:44:23Z",
+                "open_issues": 10,
                 "owner": "wiedehopf",
                 "repo": "readsb",
-                "stars": 662
+                "stars": 663,
+                "topics": [
+                  "1090",
+                  "1090mhz",
+                  "ads-b",
+                  "adsb",
+                  "aircraft",
+                  "decoder",
+                  "readsb",
+                  "rtl-sdr",
+                  "rtlsdr",
+                  "sdr"
+                ]
               },
               "first_seen": "2026-08-28T18:20:32.292Z"
             },
@@ -60,12 +94,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of interesting aircraft - Governments, Dictators, Military, Historic and just plain odd.",
+                "homepage": null,
                 "id": 347022933,
                 "language": "Python",
-                "last_commit": "2026-08-22T13:05:53Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T00:02:43Z",
+                "open_issues": 9,
                 "owner": "sdr-enthusiasts",
                 "repo": "plane-alert-db",
-                "stars": 143
+                "stars": 143,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:20:32.292Z"
             },
@@ -76,12 +115,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple command-line \"GUI\" for showing current dump1090/readsb data",
+                "homepage": null,
                 "id": 271656992,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2020-06-13T14:32:51Z",
+                "open_issues": 1,
                 "owner": "mik3y",
                 "repo": "flightmon",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:20:32.292Z"
             },
@@ -92,12 +136,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A package for taking actions based on live or recorded ADS-B data.",
+                "homepage": null,
                 "id": 736411939,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-08-26T15:23:01Z",
+                "open_issues": 8,
                 "owner": "eastham",
                 "repo": "adsb_actions",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "ads-b",
+                  "aviation"
+                ]
               },
               "first_seen": "2026-08-28T18:20:32.292Z"
             }
@@ -115,12 +167,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ADSB-Ultrafeeder is an all-in-one ADSB container with readsb, tar1090, graphs1090, autogain, multi-feeder, and mlat-hub built in",
+                "homepage": null,
                 "id": 616883526,
                 "language": "Shell",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-23T05:34:02Z",
+                "open_issues": 2,
                 "owner": "sdr-enthusiasts",
                 "repo": "docker-adsb-ultrafeeder",
-                "stars": 556
+                "stars": 556,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:20:32.292Z"
             },
@@ -131,12 +188,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Feed adsb.fi using an existing receiver running readsb / dump1090 / piaware / Raspbian / Linux",
+                "homepage": null,
                 "id": 594016888,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2025-08-29T19:42:15Z",
+                "open_issues": 0,
                 "owner": "adsbfi",
                 "repo": "adsb-fi-scripts",
-                "stars": 184
+                "stars": 184,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:20:32.292Z"
             },
@@ -147,12 +209,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📡🛰 Easy to use, container-based MLAT/ADS-B/ACARS/VDL2 multi feed client",
+                "homepage": null,
                 "id": 596639326,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2024-10-18T18:15:11Z",
+                "open_issues": 3,
                 "owner": "adsblol",
                 "repo": "feed",
-                "stars": 79
+                "stars": 79,
+                "topics": [
+                  "1090",
+                  "1090mhz",
+                  "987",
+                  "987mhz",
+                  "adsb",
+                  "adsbhub",
+                  "adsblol",
+                  "adsbone",
+                  "containers",
+                  "docker",
+                  "flightaware",
+                  "opensky",
+                  "opensky-network",
+                  "planefinder",
+                  "planewatch",
+                  "radarbox",
+                  "sdr-enthusiasts",
+                  "theairtraffic",
+                  "uat"
+                ]
               },
               "first_seen": "2026-08-28T18:20:32.292Z"
             }
@@ -170,12 +257,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Provides an improved webinterface for use with ADS-B decoders readsb / dump1090-fa",
+                "homepage": null,
                 "id": 182764313,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T07:52:44Z",
+                "open_issues": 57,
                 "owner": "wiedehopf",
                 "repo": "tar1090",
-                "stars": 1888
+                "stars": 1888,
+                "topics": [
+                  "1090",
+                  "1090mhz",
+                  "ads-b",
+                  "adsb",
+                  "aircraft",
+                  "readsb",
+                  "rtl-sdr",
+                  "rtlsdr",
+                  "sdr",
+                  "webinterface"
+                ]
               },
               "first_seen": "2026-08-28T18:20:32.292Z"
             },
@@ -186,12 +289,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Web application that displays data of one or multiple, local ADS-B feeders and AIS-data along with additional information on a map interface in the browser",
+                "homepage": null,
                 "id": 334482255,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-07T18:55:24Z",
+                "open_issues": 0,
                 "owner": "amnesica",
                 "repo": "BelugaProject",
-                "stars": 85
+                "stars": 85,
+                "topics": [
+                  "ads-b",
+                  "adsb",
+                  "adsbexchange",
+                  "airplanes-live",
+                  "ais",
+                  "ais-data",
+                  "angular",
+                  "aviation",
+                  "cesium",
+                  "cesiumjs",
+                  "docker",
+                  "flight-tracker",
+                  "flight-tracking",
+                  "flightradar24",
+                  "openlayers",
+                  "opensky-network",
+                  "planespotting",
+                  "real-time-flight-tracking",
+                  "ship-spotting",
+                  "spring-boot"
+                ]
               },
               "first_seen": "2026-08-28T18:20:32.292Z"
             }
@@ -209,12 +338,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "ADS-B Meta Tracker tracks meta data for ADS-B tracker.",
+                "homepage": null,
                 "id": 609650758,
                 "language": "Kotlin",
+                "license": "GPL-3.0",
                 "last_commit": "2023-03-07T11:31:06Z",
+                "open_issues": 0,
                 "owner": "d4rken",
                 "repo": "adsb-meta-tracker",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:20:32.292Z"
             }
@@ -232,12 +366,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Real-time ADS-B notifications for specific aircraft takeoffs and landings. Supports output many platforms.",
+                "homepage": "https://grndcntrl.net/",
                 "id": 270504039,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-02-05T05:52:03Z",
+                "open_issues": 12,
                 "owner": "Jxck-S",
                 "repo": "plane-notify",
-                "stars": 2544
+                "stars": 2544,
+                "topics": [
+                  "acas",
+                  "ads-b",
+                  "adsb",
+                  "airport",
+                  "elonjet",
+                  "emergency-squawk",
+                  "land",
+                  "plane",
+                  "resolutionadviosry",
+                  "squawk",
+                  "takeoff",
+                  "tcas"
+                ]
               },
               "first_seen": "2026-08-28T18:20:32.292Z"
             },
@@ -248,12 +400,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 948559585,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2025-03-12T22:57:33Z",
+                "open_issues": 0,
                 "owner": "kx1t",
                 "repo": "docker-planefence",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:20:32.292Z"
             }
@@ -267,15 +424,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T18:20:32.292Z",
+    "last_updated": "2026-08-29T04:44:38.154Z",
     "original_repository_info": {
       "archived": false,
+      "description": "📡 A curated list of awesome ASD-B tools, projects, images, resources and other shiny things.",
+      "homepage": "http://adsb.cool",
       "id": 607306805,
       "language": "HTML",
+      "license": "CC0-1.0",
       "last_commit": "2026-06-19T10:12:51Z",
+      "open_issues": 11,
       "owner": "rickstaa",
       "repo": "awesome-adsb",
-      "stars": 374
+      "stars": 374,
+      "topics": [
+        "adsb",
+        "awesome",
+        "awesome-list",
+        "list",
+        "resources",
+        "tools"
+      ]
     },
     "original_repository_sha": "72205199a67965bf8990fe91efb0de23cf66172e",
     "enhanced_repository": "enhansome/enhansome-adsb",

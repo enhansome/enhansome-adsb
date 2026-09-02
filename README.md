@@ -88,7 +88,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 * [airplanes.live](https://airplanes.live) - The mission of Airplanes.Live is to aggregate and provide access to a comprehensive repository of unfiltered aviation data.  Offers map and free API.
 * [ADSB One](https://adsb.one) - A one-stop resource for all aero-related information and a community-driven aggregator for aero-feed data legally dedicated to the public interest.
 * [adsb.fi](https://adsb.fi) - A community-driven flight tracker with hundreds of feeders worldwide that provides open and unfiltered access to worldwide air traffic data.
-* [ADSB.lol](https://adsb.lol) - A completely open-source and community-driven flight tracker that displays and provides [ODbL-licensed](https://opendatacommons.org/licenses/odbl/summary/) data via a [free API](https://api.adsb.lol/) as well as [free historical data](https://github.com/adsblol/globe_history) ⭐ 48 | 🐛 0 | 🌐 Shell | 📅 2026-09-01.
+* [ADSB.lol](https://adsb.lol) - A completely open-source and community-driven flight tracker that displays and provides [ODbL-licensed](https://opendatacommons.org/licenses/odbl/summary/) data via a [free API](https://api.adsb.lol/) as well as [free historical data](https://github.com/adsblol/globe_history) ⭐ 49 | 🐛 0 | 🌐 Shell | 📅 2026-09-02.
 
 ### Community driven
 
@@ -167,7 +167,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 
 ### Social
 
-* [Jxck-S/plane-notify](https://github.com/Jxck-S/plane-notify) ⭐ 2,545 | 🐛 12 | 🌐 Python | 📅 2026-02-05 - Notify if a selected plane has taken off or landed using OpenSky or ADS-B Exchange data.
+* [Jxck-S/plane-notify](https://github.com/Jxck-S/plane-notify) ⭐ 2,546 | 🐛 12 | 🌐 Python | 📅 2026-02-05 - Notify if a selected plane has taken off or landed using OpenSky or ADS-B Exchange data.
 * [docker-planefence](https://github.com/kx1t/docker-planefence) ⭐ 5 | 🐛 0 | 📅 2025-03-12 - A little tool that can be used to log, display and tweet the aircraft that come within range of your receiver (i.e. the fence).
 
 ## ADS-B Derived Data
@@ -245,4 +245,4 @@ This project exists thanks to all the people [that contributed](https://github.c
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._

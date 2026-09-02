@@ -375,7 +375,7 @@
                 "open_issues": 12,
                 "owner": "Jxck-S",
                 "repo": "plane-notify",
-                "stars": 2545,
+                "stars": 2546,
                 "topics": [
                   "acas",
                   "ads-b",
@@ -424,7 +424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T11:19:26.420Z",
+    "last_updated": "2026-09-02T10:53:55.163Z",
     "original_repository_info": {
       "archived": false,
       "description": "📡 A curated list of awesome ASD-B tools, projects, images, resources and other shiny things.",

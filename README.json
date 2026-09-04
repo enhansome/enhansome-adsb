@@ -28,6 +28,38 @@
             },
             {
               "node_type": "item",
+              "title": "readsb",
+              "description": "ADS-B decoder swiss knife.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "ADS-B decoder swiss knife",
+                "homepage": null,
+                "id": 326161007,
+                "language": "C",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-22T14:44:23Z",
+                "open_issues": 10,
+                "owner": "wiedehopf",
+                "repo": "readsb",
+                "stars": 668,
+                "topics": [
+                  "1090",
+                  "1090mhz",
+                  "ads-b",
+                  "adsb",
+                  "aircraft",
+                  "decoder",
+                  "readsb",
+                  "rtl-sdr",
+                  "rtlsdr",
+                  "sdr"
+                ]
+              },
+              "first_seen": "2026-08-28T18:20:32.292Z"
+            },
+            {
+              "node_type": "item",
               "title": "junzis/pyModeS",
               "description": "A python decoder for Mode S and ADS-B signals.",
               "children": [],
@@ -57,38 +89,6 @@
             },
             {
               "node_type": "item",
-              "title": "readsb",
-              "description": "ADS-B decoder swiss knife.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "ADS-B decoder swiss knife",
-                "homepage": null,
-                "id": 326161007,
-                "language": "C",
-                "license": "NOASSERTION",
-                "last_commit": "2026-08-22T14:44:23Z",
-                "open_issues": 10,
-                "owner": "wiedehopf",
-                "repo": "readsb",
-                "stars": 667,
-                "topics": [
-                  "1090",
-                  "1090mhz",
-                  "ads-b",
-                  "adsb",
-                  "aircraft",
-                  "decoder",
-                  "readsb",
-                  "rtl-sdr",
-                  "rtlsdr",
-                  "sdr"
-                ]
-              },
-              "first_seen": "2026-08-28T18:20:32.292Z"
-            },
-            {
-              "node_type": "item",
               "title": "sdr-enthusiasts/plane-alert-db",
               "description": "A list of exciting aircraft - Governments, Dictators, Military, Historical and just plain odd.",
               "children": [],
@@ -99,7 +99,7 @@
                 "id": 347022933,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-31T12:06:17Z",
+                "last_commit": "2026-09-03T18:23:12Z",
                 "open_issues": 8,
                 "owner": "sdr-enthusiasts",
                 "repo": "plane-alert-db",
@@ -262,11 +262,11 @@
                 "id": 182764313,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-27T07:52:44Z",
+                "last_commit": "2026-09-04T10:29:53Z",
                 "open_issues": 57,
                 "owner": "wiedehopf",
                 "repo": "tar1090",
-                "stars": 1890,
+                "stars": 1891,
                 "topics": [
                   "1090",
                   "1090mhz",
@@ -298,7 +298,7 @@
                 "open_issues": 0,
                 "owner": "amnesica",
                 "repo": "BelugaProject",
-                "stars": 85,
+                "stars": 86,
                 "topics": [
                   "ads-b",
                   "adsb",
@@ -424,7 +424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T10:53:31.220Z",
+    "last_updated": "2026-09-04T10:52:43.061Z",
     "original_repository_info": {
       "archived": false,
       "description": "📡 A curated list of awesome ASD-B tools, projects, images, resources and other shiny things.",
@@ -436,7 +436,7 @@
       "open_issues": 12,
       "owner": "rickstaa",
       "repo": "awesome-adsb",
-      "stars": 377,
+      "stars": 378,
       "topics": [
         "adsb",
         "awesome",

@@ -266,7 +266,7 @@
                 "open_issues": 57,
                 "owner": "wiedehopf",
                 "repo": "tar1090",
-                "stars": 1891,
+                "stars": 1893,
                 "topics": [
                   "1090",
                   "1090mhz",
@@ -424,7 +424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T10:52:43.061Z",
+    "last_updated": "2026-09-05T10:11:41.468Z",
     "original_repository_info": {
       "archived": false,
       "description": "📡 A curated list of awesome ASD-B tools, projects, images, resources and other shiny things.",
@@ -432,7 +432,7 @@
       "id": 607306805,
       "language": "HTML",
       "license": "CC0-1.0",
-      "last_commit": "2026-06-19T10:12:51Z",
+      "last_commit": "2026-09-05T07:25:17Z",
       "open_issues": 12,
       "owner": "rickstaa",
       "repo": "awesome-adsb",
@@ -446,7 +446,7 @@
         "tools"
       ]
     },
-    "original_repository_sha": "72205199a67965bf8990fe91efb0de23cf66172e",
+    "original_repository_sha": "2b3b7efe5135a536ec8f52c59a9d50cad133c7fb",
     "enhanced_repository": "enhansome/enhansome-adsb",
     "enhanced_repository_description": null,
     "title": "Awesome ADS-B with stars"

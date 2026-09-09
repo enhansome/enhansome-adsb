@@ -42,7 +42,7 @@
                 "open_issues": 10,
                 "owner": "wiedehopf",
                 "repo": "readsb",
-                "stars": 670,
+                "stars": 672,
                 "topics": [
                   "1090",
                   "1090mhz",
@@ -173,7 +173,7 @@
                 "language": "Shell",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-06T09:16:51Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "sdr-enthusiasts",
                 "repo": "docker-adsb-ultrafeeder",
                 "stars": 564,
@@ -298,7 +298,7 @@
                 "open_issues": 0,
                 "owner": "amnesica",
                 "repo": "BelugaProject",
-                "stars": 86,
+                "stars": 87,
                 "topics": [
                   "ads-b",
                   "adsb",
@@ -424,7 +424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T10:51:58.852Z",
+    "last_updated": "2026-09-09T10:57:25.424Z",
     "original_repository_info": {
       "archived": false,
       "description": "📡 A curated list of awesome ASD-B tools, projects, images, resources and other shiny things.",

@@ -21,7 +21,7 @@
                 "open_issues": 39,
                 "owner": "MalcolmRobb",
                 "repo": "dump1090",
-                "stars": 1105,
+                "stars": 1106,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:20:32.292Z"
@@ -124,7 +124,7 @@
                 "open_issues": 1,
                 "owner": "mik3y",
                 "repo": "flightmon",
-                "stars": 22,
+                "stars": 23,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:20:32.292Z"
@@ -176,7 +176,7 @@
                 "open_issues": 5,
                 "owner": "sdr-enthusiasts",
                 "repo": "docker-adsb-ultrafeeder",
-                "stars": 564,
+                "stars": 565,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:20:32.292Z"
@@ -424,7 +424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T10:57:25.424Z",
+    "last_updated": "2026-09-10T10:54:29.188Z",
     "original_repository_info": {
       "archived": false,
       "description": "📡 A curated list of awesome ASD-B tools, projects, images, resources and other shiny things.",

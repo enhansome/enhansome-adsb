@@ -42,7 +42,7 @@
                 "open_issues": 11,
                 "owner": "wiedehopf",
                 "repo": "readsb",
-                "stars": 675,
+                "stars": 678,
                 "topics": [
                   "1090",
                   "1090mhz",
@@ -266,7 +266,7 @@
                 "open_issues": 57,
                 "owner": "wiedehopf",
                 "repo": "tar1090",
-                "stars": 1900,
+                "stars": 1901,
                 "topics": [
                   "1090",
                   "1090mhz",
@@ -298,7 +298,7 @@
                 "open_issues": 0,
                 "owner": "amnesica",
                 "repo": "BelugaProject",
-                "stars": 87,
+                "stars": 88,
                 "topics": [
                   "ads-b",
                   "adsb",
@@ -424,7 +424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T12:11:23.256Z",
+    "last_updated": "2026-09-15T11:21:07.689Z",
     "original_repository_info": {
       "archived": false,
       "description": "📡 A curated list of awesome ASD-B tools, projects, images, resources and other shiny things.",

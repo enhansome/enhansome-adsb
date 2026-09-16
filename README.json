@@ -42,7 +42,7 @@
                 "open_issues": 11,
                 "owner": "wiedehopf",
                 "repo": "readsb",
-                "stars": 678,
+                "stars": 680,
                 "topics": [
                   "1090",
                   "1090mhz",
@@ -176,7 +176,7 @@
                 "open_issues": 5,
                 "owner": "sdr-enthusiasts",
                 "repo": "docker-adsb-ultrafeeder",
-                "stars": 566,
+                "stars": 567,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:20:32.292Z"
@@ -266,7 +266,7 @@
                 "open_issues": 57,
                 "owner": "wiedehopf",
                 "repo": "tar1090",
-                "stars": 1901,
+                "stars": 1903,
                 "topics": [
                   "1090",
                   "1090mhz",
@@ -371,8 +371,8 @@
                 "id": 270504039,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-02-05T05:52:03Z",
-                "open_issues": 12,
+                "last_commit": "2026-09-15T19:54:37Z",
+                "open_issues": 10,
                 "owner": "Jxck-S",
                 "repo": "plane-notify",
                 "stars": 2547,
@@ -424,7 +424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T11:21:07.689Z",
+    "last_updated": "2026-09-16T11:05:06.044Z",
     "original_repository_info": {
       "archived": false,
       "description": "📡 A curated list of awesome ASD-B tools, projects, images, resources and other shiny things.",

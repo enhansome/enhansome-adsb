@@ -176,7 +176,7 @@
                 "open_issues": 6,
                 "owner": "sdr-enthusiasts",
                 "repo": "docker-adsb-ultrafeeder",
-                "stars": 567,
+                "stars": 569,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:20:32.292Z"
@@ -218,7 +218,7 @@
                 "open_issues": 3,
                 "owner": "adsblol",
                 "repo": "feed",
-                "stars": 79,
+                "stars": 78,
                 "topics": [
                   "1090",
                   "1090mhz",
@@ -266,7 +266,7 @@
                 "open_issues": 68,
                 "owner": "wiedehopf",
                 "repo": "tar1090",
-                "stars": 1910,
+                "stars": 1911,
                 "topics": [
                   "1090",
                   "1090mhz",
@@ -375,7 +375,7 @@
                 "open_issues": 10,
                 "owner": "Jxck-S",
                 "repo": "plane-notify",
-                "stars": 2548,
+                "stars": 2547,
                 "topics": [
                   "acas",
                   "ads-b",
@@ -424,7 +424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T10:54:12.704Z",
+    "last_updated": "2026-09-21T12:19:42.117Z",
     "original_repository_info": {
       "archived": false,
       "description": "📡 A curated list of awesome ASD-B tools, projects, images, resources and other shiny things.",

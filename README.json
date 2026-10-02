@@ -42,7 +42,7 @@
                 "open_issues": 11,
                 "owner": "wiedehopf",
                 "repo": "readsb",
-                "stars": 684,
+                "stars": 687,
                 "topics": [
                   "1090",
                   "1090mhz",
@@ -103,7 +103,7 @@
                 "open_issues": 8,
                 "owner": "sdr-enthusiasts",
                 "repo": "plane-alert-db",
-                "stars": 145,
+                "stars": 144,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:20:32.292Z"
@@ -266,7 +266,7 @@
                 "open_issues": 50,
                 "owner": "wiedehopf",
                 "repo": "tar1090",
-                "stars": 1916,
+                "stars": 1917,
                 "topics": [
                   "1090",
                   "1090mhz",
@@ -371,11 +371,11 @@
                 "id": 270504039,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-01T02:09:45Z",
-                "open_issues": 11,
+                "last_commit": "2026-10-01T17:49:59Z",
+                "open_issues": 10,
                 "owner": "Jxck-S",
                 "repo": "plane-notify",
-                "stars": 2547,
+                "stars": 2548,
                 "topics": [
                   "acas",
                   "ads-b",
@@ -424,7 +424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T12:42:18.803Z",
+    "last_updated": "2026-10-02T12:06:47.061Z",
     "original_repository_info": {
       "archived": false,
       "description": "📡 A curated list of awesome ASD-B tools, projects, images, resources and other shiny things.",
@@ -436,7 +436,7 @@
       "open_issues": 12,
       "owner": "rickstaa",
       "repo": "awesome-adsb",
-      "stars": 386,
+      "stars": 387,
       "topics": [
         "adsb",
         "awesome",

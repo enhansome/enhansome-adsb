@@ -77,7 +77,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 <!--lint ignore double-link-->
 
 > **Note**
-> The aggregators below are displayed per category based on the number of feeders on **17-01-2026**. If the number of feeders was unavailable, sites were compared based on the number of planes they tracked. Feel free to open a [create a pull request](https://github.com/rickstaa/awesome-adsb/pulls) ⭐ 386 | 🐛 12 | 🌐 HTML | 📅 2026-09-05 if you think the order needs to be updated.
+> The aggregators below are displayed per category based on the number of feeders on **17-01-2026**. If the number of feeders was unavailable, sites were compared based on the number of planes they tracked. Feel free to open a [create a pull request](https://github.com/rickstaa/awesome-adsb/pulls) ⭐ 387 | 🐛 12 | 🌐 HTML | 📅 2026-09-05 if you think the order needs to be updated.
 
 <!-- List ADS-B aggregators. -->
 
@@ -88,7 +88,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 * [airplanes.live](https://airplanes.live) - The mission of Airplanes.Live is to aggregate and provide access to a comprehensive repository of unfiltered aviation data.  Offers map and free API.
 * [ADSB One](https://adsb.one) - A one-stop resource for all aero-related information and a community-driven aggregator for aero-feed data legally dedicated to the public interest.
 * [adsb.fi](https://adsb.fi) - A community-driven flight tracker with hundreds of feeders worldwide that provides open and unfiltered access to worldwide air traffic data.
-* [ADSB.lol](https://adsb.lol) - A completely open-source and community-driven flight tracker that displays and provides [ODbL-licensed](https://opendatacommons.org/licenses/odbl/summary/) data via a [free API](https://api.adsb.lol/) as well as [free historical data](https://github.com/adsblol/globe_history) ⭐ 56 | 🐛 1 | 🌐 Shell | 📅 2026-10-01.
+* [ADSB.lol](https://adsb.lol) - A completely open-source and community-driven flight tracker that displays and provides [ODbL-licensed](https://opendatacommons.org/licenses/odbl/summary/) data via a [free API](https://api.adsb.lol/) as well as [free historical data](https://github.com/adsblol/globe_history) ⭐ 58 | 🐛 1 | 🌐 Shell | 📅 2026-10-02.
 
 ### Community driven
 
@@ -141,9 +141,9 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 ### General
 
 * [dump1090](https://github.com/MalcolmRobb/dump1090) ⭐ 1,107 | 🐛 39 | 🌐 C | 📅 2024-08-14 - A simple Mode S decoder for RTLSDR devices.
-* [readsb](https://github.com/wiedehopf/readsb) ⭐ 684 | 🐛 11 | 🌐 C | 📅 2026-09-27 - ADS-B decoder swiss knife.
+* [readsb](https://github.com/wiedehopf/readsb) ⭐ 687 | 🐛 11 | 🌐 C | 📅 2026-09-27 - ADS-B decoder swiss knife.
 * [junzis/pyModeS](https://github.com/junzis/pyModeS) ⭐ 669 | 🐛 7 | 🌐 Python | 📅 2026-09-24 - A python decoder for Mode S and ADS-B signals.
-* [sdr-enthusiasts/plane-alert-db](https://github.com/sdr-enthusiasts/plane-alert-db) ⭐ 145 | 🐛 8 | 🌐 Python | 📅 2026-09-26 - A list of exciting aircraft - Governments, Dictators, Military, Historical and just plain odd.
+* [sdr-enthusiasts/plane-alert-db](https://github.com/sdr-enthusiasts/plane-alert-db) ⭐ 144 | 🐛 8 | 🌐 Python | 📅 2026-09-26 - A list of exciting aircraft - Governments, Dictators, Military, Historical and just plain odd.
 * [flightmon](https://github.com/mik3y/flightmon) ⭐ 23 | 🐛 1 | 🌐 Go | 📅 2020-06-13 - Simple command-line "GUI" for showing current dump1090/readsb data.
 * [adsb\_actions](https://github.com/eastham/adsb_actions) ⭐ 4 | 🐛 8 | 🌐 Python | 📅 2026-08-26 - Python tool to detect, act on, and visualize ADS-B traffic and events.
 
@@ -156,7 +156,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 
 ### Visualisation
 
-* [wiedehopf/tar1090](https://github.com/wiedehopf/tar1090) ⭐ 1,916 | 🐛 50 | 🌐 JavaScript | 📅 2026-09-29 - A great way to view your ADS-B data.
+* [wiedehopf/tar1090](https://github.com/wiedehopf/tar1090) ⭐ 1,917 | 🐛 50 | 🌐 JavaScript | 📅 2026-09-29 - A great way to view your ADS-B data.
 * [amnesica/BelugaProject](https://github.com/amnesica/BelugaProject) ⭐ 90 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-19 - A web application that displays data of one or multiple, local ADS-B feeders and AIS-data along with additional information on a map interface in the browser.
 * [Grafana](https://grafana.com/) - Open source analytics and monitoring solution for every database.
 
@@ -167,12 +167,12 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 
 ### Social
 
-* [Jxck-S/plane-notify](https://github.com/Jxck-S/plane-notify) ⭐ 2,547 | 🐛 11 | 🌐 Python | 📅 2026-10-01 - Notify if a selected plane has taken off or landed using OpenSky or ADS-B Exchange data.
+* [Jxck-S/plane-notify](https://github.com/Jxck-S/plane-notify) ⭐ 2,548 | 🐛 10 | 🌐 Python | 📅 2026-10-01 - Notify if a selected plane has taken off or landed using OpenSky or ADS-B Exchange data.
 * [docker-planefence](https://github.com/kx1t/docker-planefence) ⭐ 5 | 🐛 0 | 📅 2025-03-12 - A little tool that can be used to log, display and tweet the aircraft that come within range of your receiver (i.e. the fence).
 
 ## ADS-B Derived Data
 
-* [aircraft-flight-schedules](https://github.com/MrAirspace/aircraft-flight-schedules) ⭐ 28 | 🐛 0 | 📅 2026-09-27 - Open-source datasets featuring global, high-level flight schedules extracted from worldwide aircraft ADS-B position transmissions (2024+ onwards). Covers all flights globally as long as within coverage of the [ADSBlol](https://adsb.lol/) initiative.
+* [aircraft-flight-schedules](https://github.com/MrAirspace/aircraft-flight-schedules) ⭐ 28 | 🐛 0 | 📅 2026-10-01 - Open-source datasets featuring global, high-level flight schedules extracted from worldwide aircraft ADS-B position transmissions (2024+ onwards). Covers all flights globally as long as within coverage of the [ADSBlol](https://adsb.lol/) initiative.
 
 ## Hardware
 
@@ -209,9 +209,9 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 <!--lint ignore double-link-->
 
 > **TODO:**
-> Please [create a pull request](https://github.com/rickstaa/awesome-adsb/pulls) ⭐ 386 | 🐛 12 | 🌐 HTML | 📅 2026-09-05 if you know people in the ADS-B space that are worth following.
+> Please [create a pull request](https://github.com/rickstaa/awesome-adsb/pulls) ⭐ 387 | 🐛 12 | 🌐 HTML | 📅 2026-09-05 if you know people in the ADS-B space that are worth following.
 
-Who else should we [be following](https://github.com/rickstaa/awesome-adsb/issues/new?assignees=\&labels=\&template=suggestion.yaml) ⭐ 386 | 🐛 12 | 🌐 HTML | 📅 2026-09-05?
+Who else should we [be following](https://github.com/rickstaa/awesome-adsb/issues/new?assignees=\&labels=\&template=suggestion.yaml) ⭐ 387 | 🐛 12 | 🌐 HTML | 📅 2026-09-05?
 
 <!-- END CONTENT -->
 
@@ -233,7 +233,7 @@ Contributions of any kind are welcome 💙! Please check out the [contributing g
 
 <!--lint ignore double-link-->
 
-This project exists thanks to all the people [that contributed](https://github.com/rickstaa/awesome-adsb/graphs/contributors) ⭐ 386 | 🐛 12 | 🌐 HTML | 📅 2026-09-05!
+This project exists thanks to all the people [that contributed](https://github.com/rickstaa/awesome-adsb/graphs/contributors) ⭐ 387 | 🐛 12 | 🌐 HTML | 📅 2026-09-05!
 
 <!--lint ignore double-link-->
 
@@ -245,4 +245,4 @@ This project exists thanks to all the people [that contributed](https://github.c
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._

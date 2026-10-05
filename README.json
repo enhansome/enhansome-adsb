@@ -42,7 +42,7 @@
                 "open_issues": 11,
                 "owner": "wiedehopf",
                 "repo": "readsb",
-                "stars": 685,
+                "stars": 686,
                 "topics": [
                   "1090",
                   "1090mhz",
@@ -176,7 +176,7 @@
                 "open_issues": 7,
                 "owner": "sdr-enthusiasts",
                 "repo": "docker-adsb-ultrafeeder",
-                "stars": 580,
+                "stars": 581,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:20:32.292Z"
@@ -266,7 +266,7 @@
                 "open_issues": 50,
                 "owner": "wiedehopf",
                 "repo": "tar1090",
-                "stars": 1920,
+                "stars": 1921,
                 "topics": [
                   "1090",
                   "1090mhz",
@@ -424,7 +424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T11:57:42.966Z",
+    "last_updated": "2026-10-05T13:59:01.307Z",
     "original_repository_info": {
       "archived": false,
       "description": "📡 A curated list of awesome ASD-B tools, projects, images, resources and other shiny things.",
@@ -436,7 +436,7 @@
       "open_issues": 13,
       "owner": "rickstaa",
       "repo": "awesome-adsb",
-      "stars": 389,
+      "stars": 390,
       "topics": [
         "adsb",
         "awesome",

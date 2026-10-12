@@ -42,7 +42,7 @@
                 "open_issues": 11,
                 "owner": "wiedehopf",
                 "repo": "readsb",
-                "stars": 688,
+                "stars": 689,
                 "topics": [
                   "1090",
                   "1090mhz",
@@ -172,8 +172,8 @@
                 "id": 616883526,
                 "language": "Shell",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-11T11:20:41Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-11T16:44:43Z",
+                "open_issues": 4,
                 "owner": "sdr-enthusiasts",
                 "repo": "docker-adsb-ultrafeeder",
                 "stars": 582,
@@ -197,7 +197,7 @@
                 "open_issues": 0,
                 "owner": "adsbfi",
                 "repo": "adsb-fi-scripts",
-                "stars": 191,
+                "stars": 192,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:20:32.292Z"
@@ -263,10 +263,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-29T06:36:28Z",
-                "open_issues": 52,
+                "open_issues": 53,
                 "owner": "wiedehopf",
                 "repo": "tar1090",
-                "stars": 1926,
+                "stars": 1927,
                 "topics": [
                   "1090",
                   "1090mhz",
@@ -375,7 +375,7 @@
                 "open_issues": 10,
                 "owner": "Jxck-S",
                 "repo": "plane-notify",
-                "stars": 2547,
+                "stars": 2548,
                 "topics": [
                   "acas",
                   "ads-b",
@@ -424,7 +424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T12:20:50.173Z",
+    "last_updated": "2026-10-12T14:48:06.425Z",
     "original_repository_info": {
       "archived": false,
       "description": "📡 A curated list of awesome ASD-B tools, projects, images, resources and other shiny things.",

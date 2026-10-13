@@ -70,8 +70,8 @@
                 "id": 32406884,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-24T14:24:15Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-12T19:53:24Z",
+                "open_issues": 8,
                 "owner": "junzis",
                 "repo": "pyModeS",
                 "stars": 669,
@@ -176,7 +176,7 @@
                 "open_issues": 4,
                 "owner": "sdr-enthusiasts",
                 "repo": "docker-adsb-ultrafeeder",
-                "stars": 582,
+                "stars": 583,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:20:32.292Z"
@@ -266,7 +266,7 @@
                 "open_issues": 53,
                 "owner": "wiedehopf",
                 "repo": "tar1090",
-                "stars": 1927,
+                "stars": 1930,
                 "topics": [
                   "1090",
                   "1090mhz",
@@ -424,7 +424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T14:48:06.425Z",
+    "last_updated": "2026-10-13T13:48:51.479Z",
     "original_repository_info": {
       "archived": false,
       "description": "📡 A curated list of awesome ASD-B tools, projects, images, resources and other shiny things.",

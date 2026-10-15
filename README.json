@@ -21,7 +21,7 @@
                 "open_issues": 39,
                 "owner": "MalcolmRobb",
                 "repo": "dump1090",
-                "stars": 1109,
+                "stars": 1110,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:20:32.292Z"
@@ -176,7 +176,7 @@
                 "open_issues": 4,
                 "owner": "sdr-enthusiasts",
                 "repo": "docker-adsb-ultrafeeder",
-                "stars": 583,
+                "stars": 584,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:20:32.292Z"
@@ -266,7 +266,7 @@
                 "open_issues": 53,
                 "owner": "wiedehopf",
                 "repo": "tar1090",
-                "stars": 1932,
+                "stars": 1933,
                 "topics": [
                   "1090",
                   "1090mhz",
@@ -424,19 +424,19 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T11:26:23.965Z",
+    "last_updated": "2026-10-15T11:02:45.524Z",
     "original_repository_info": {
       "archived": false,
-      "description": "📡 A curated list of awesome ASD-B tools, projects, images, resources and other shiny things.",
+      "description": "📡 A curated list of awesome ADS-B tools, projects, images, resources and other shiny things.",
       "homepage": "http://adsb.cool",
       "id": 607306805,
       "language": "HTML",
       "license": "CC0-1.0",
       "last_commit": "2026-09-05T07:25:17Z",
-      "open_issues": 12,
+      "open_issues": 13,
       "owner": "rickstaa",
       "repo": "awesome-adsb",
-      "stars": 392,
+      "stars": 393,
       "topics": [
         "adsb",
         "awesome",

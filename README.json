@@ -42,7 +42,7 @@
                 "open_issues": 11,
                 "owner": "wiedehopf",
                 "repo": "readsb",
-                "stars": 689,
+                "stars": 690,
                 "topics": [
                   "1090",
                   "1090mhz",
@@ -74,7 +74,7 @@
                 "open_issues": 8,
                 "owner": "junzis",
                 "repo": "pyModeS",
-                "stars": 670,
+                "stars": 671,
                 "topics": [
                   "ads-b",
                   "adsb",
@@ -176,7 +176,7 @@
                 "open_issues": 4,
                 "owner": "sdr-enthusiasts",
                 "repo": "docker-adsb-ultrafeeder",
-                "stars": 584,
+                "stars": 586,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:20:32.292Z"
@@ -424,7 +424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T11:02:45.524Z",
+    "last_updated": "2026-10-16T10:58:34.786Z",
     "original_repository_info": {
       "archived": false,
       "description": "📡 A curated list of awesome ADS-B tools, projects, images, resources and other shiny things.",
@@ -433,7 +433,7 @@
       "language": "HTML",
       "license": "CC0-1.0",
       "last_commit": "2026-09-05T07:25:17Z",
-      "open_issues": 13,
+      "open_issues": 12,
       "owner": "rickstaa",
       "repo": "awesome-adsb",
       "stars": 393,

@@ -42,7 +42,7 @@
                 "open_issues": 11,
                 "owner": "wiedehopf",
                 "repo": "readsb",
-                "stars": 690,
+                "stars": 691,
                 "topics": [
                   "1090",
                   "1090mhz",
@@ -70,8 +70,8 @@
                 "id": 32406884,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-12T19:53:24Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-16T19:45:43Z",
+                "open_issues": 7,
                 "owner": "junzis",
                 "repo": "pyModeS",
                 "stars": 671,
@@ -424,7 +424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T10:58:34.786Z",
+    "last_updated": "2026-10-17T10:19:55.692Z",
     "original_repository_info": {
       "archived": false,
       "description": "📡 A curated list of awesome ADS-B tools, projects, images, resources and other shiny things.",

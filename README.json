@@ -99,7 +99,7 @@
                 "id": 347022933,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-10T16:27:29Z",
+                "last_commit": "2026-10-18T01:44:24Z",
                 "open_issues": 8,
                 "owner": "sdr-enthusiasts",
                 "repo": "plane-alert-db",
@@ -172,11 +172,11 @@
                 "id": 616883526,
                 "language": "Shell",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-11T16:44:43Z",
+                "last_commit": "2026-10-18T09:27:39Z",
                 "open_issues": 4,
                 "owner": "sdr-enthusiasts",
                 "repo": "docker-adsb-ultrafeeder",
-                "stars": 586,
+                "stars": 587,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:20:32.292Z"
@@ -298,7 +298,7 @@
                 "open_issues": 0,
                 "owner": "amnesica",
                 "repo": "BelugaProject",
-                "stars": 90,
+                "stars": 91,
                 "topics": [
                   "ads-b",
                   "adsb",
@@ -424,7 +424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T10:19:55.692Z",
+    "last_updated": "2026-10-18T10:36:22.131Z",
     "original_repository_info": {
       "archived": false,
       "description": "📡 A curated list of awesome ADS-B tools, projects, images, resources and other shiny things.",
@@ -433,10 +433,10 @@
       "language": "HTML",
       "license": "CC0-1.0",
       "last_commit": "2026-09-05T07:25:17Z",
-      "open_issues": 12,
+      "open_issues": 13,
       "owner": "rickstaa",
       "repo": "awesome-adsb",
-      "stars": 393,
+      "stars": 394,
       "topics": [
         "adsb",
         "awesome",

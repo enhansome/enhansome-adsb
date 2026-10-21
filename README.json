@@ -42,7 +42,7 @@
                 "open_issues": 11,
                 "owner": "wiedehopf",
                 "repo": "readsb",
-                "stars": 693,
+                "stars": 695,
                 "topics": [
                   "1090",
                   "1090mhz",
@@ -173,7 +173,7 @@
                 "language": "Shell",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-18T09:27:39Z",
-                "open_issues": 5,
+                "open_issues": 4,
                 "owner": "sdr-enthusiasts",
                 "repo": "docker-adsb-ultrafeeder",
                 "stars": 587,
@@ -266,7 +266,7 @@
                 "open_issues": 52,
                 "owner": "wiedehopf",
                 "repo": "tar1090",
-                "stars": 1937,
+                "stars": 1938,
                 "topics": [
                   "1090",
                   "1090mhz",
@@ -370,8 +370,8 @@
                 "homepage": "https://grndcntrl.net/",
                 "id": 270504039,
                 "language": "Python",
-                "license": "GPL-3.0",
-                "last_commit": "2026-10-01T17:49:59Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-20T16:52:43Z",
                 "open_issues": 10,
                 "owner": "Jxck-S",
                 "repo": "plane-notify",
@@ -424,7 +424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T11:07:44.833Z",
+    "last_updated": "2026-10-21T11:23:20.875Z",
     "original_repository_info": {
       "archived": false,
       "description": "📡 A curated list of awesome ADS-B tools, projects, images, resources and other shiny things.",

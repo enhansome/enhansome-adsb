@@ -42,7 +42,7 @@
                 "open_issues": 11,
                 "owner": "wiedehopf",
                 "repo": "readsb",
-                "stars": 695,
+                "stars": 696,
                 "topics": [
                   "1090",
                   "1090mhz",
@@ -74,7 +74,7 @@
                 "open_issues": 7,
                 "owner": "junzis",
                 "repo": "pyModeS",
-                "stars": 672,
+                "stars": 673,
                 "topics": [
                   "ads-b",
                   "adsb",
@@ -103,7 +103,7 @@
                 "open_issues": 8,
                 "owner": "sdr-enthusiasts",
                 "repo": "plane-alert-db",
-                "stars": 145,
+                "stars": 146,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:20:32.292Z"
@@ -266,7 +266,7 @@
                 "open_issues": 52,
                 "owner": "wiedehopf",
                 "repo": "tar1090",
-                "stars": 1938,
+                "stars": 1939,
                 "topics": [
                   "1090",
                   "1090mhz",
@@ -298,7 +298,7 @@
                 "open_issues": 0,
                 "owner": "amnesica",
                 "repo": "BelugaProject",
-                "stars": 91,
+                "stars": 90,
                 "topics": [
                   "ads-b",
                   "adsb",
@@ -375,7 +375,7 @@
                 "open_issues": 10,
                 "owner": "Jxck-S",
                 "repo": "plane-notify",
-                "stars": 2549,
+                "stars": 2550,
                 "topics": [
                   "acas",
                   "ads-b",
@@ -424,7 +424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T11:23:20.875Z",
+    "last_updated": "2026-10-22T11:23:31.009Z",
     "original_repository_info": {
       "archived": false,
       "description": "📡 A curated list of awesome ADS-B tools, projects, images, resources and other shiny things.",
@@ -433,7 +433,7 @@
       "language": "HTML",
       "license": "CC0-1.0",
       "last_commit": "2026-09-05T07:25:17Z",
-      "open_issues": 14,
+      "open_issues": 15,
       "owner": "rickstaa",
       "repo": "awesome-adsb",
       "stars": 394,

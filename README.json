@@ -21,7 +21,7 @@
                 "open_issues": 39,
                 "owner": "MalcolmRobb",
                 "repo": "dump1090",
-                "stars": 1110,
+                "stars": 1111,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:20:32.292Z"
@@ -172,7 +172,7 @@
                 "id": 616883526,
                 "language": "Shell",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-18T09:27:39Z",
+                "last_commit": "2026-10-22T19:00:06Z",
                 "open_issues": 4,
                 "owner": "sdr-enthusiasts",
                 "repo": "docker-adsb-ultrafeeder",
@@ -424,7 +424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T11:23:31.009Z",
+    "last_updated": "2026-10-23T11:13:36.930Z",
     "original_repository_info": {
       "archived": false,
       "description": "📡 A curated list of awesome ADS-B tools, projects, images, resources and other shiny things.",
@@ -433,7 +433,7 @@
       "language": "HTML",
       "license": "CC0-1.0",
       "last_commit": "2026-09-05T07:25:17Z",
-      "open_issues": 15,
+      "open_issues": 16,
       "owner": "rickstaa",
       "repo": "awesome-adsb",
       "stars": 394,

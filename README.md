@@ -88,7 +88,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 * [airplanes.live](https://airplanes.live) - The mission of Airplanes.Live is to aggregate and provide access to a comprehensive repository of unfiltered aviation data.  Offers map and free API.
 * [ADSB One](https://adsb.one) - A one-stop resource for all aero-related information and a community-driven aggregator for aero-feed data legally dedicated to the public interest.
 * [adsb.fi](https://adsb.fi) - A community-driven flight tracker with hundreds of feeders worldwide that provides open and unfiltered access to worldwide air traffic data.
-* [ADSB.lol](https://adsb.lol) - A completely open-source and community-driven flight tracker that displays and provides [ODbL-licensed](https://opendatacommons.org/licenses/odbl/summary/) data via a [free API](https://api.adsb.lol/) as well as [free historical data](https://github.com/adsblol/globe_history) ⭐ 64 | 🐛 1 | 🌐 Shell | 📅 2026-10-28.
+* [ADSB.lol](https://adsb.lol) - A completely open-source and community-driven flight tracker that displays and provides [ODbL-licensed](https://opendatacommons.org/licenses/odbl/summary/) data via a [free API](https://api.adsb.lol/) as well as [free historical data](https://github.com/adsblol/globe_history) ⭐ 65 | 🐛 1 | 🌐 Shell | 📅 2026-10-29.
 
 ### Community driven
 
@@ -141,7 +141,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 ### General
 
 * [dump1090](https://github.com/MalcolmRobb/dump1090) ⭐ 1,111 | 🐛 39 | 🌐 C | 📅 2024-08-14 - A simple Mode S decoder for RTLSDR devices.
-* [readsb](https://github.com/wiedehopf/readsb) ⭐ 698 | 🐛 13 | 🌐 C | 📅 2026-10-27 - ADS-B decoder swiss knife.
+* [readsb](https://github.com/wiedehopf/readsb) ⭐ 699 | 🐛 12 | 🌐 C | 📅 2026-10-29 - ADS-B decoder swiss knife.
 * [junzis/pyModeS](https://github.com/junzis/pyModeS) ⭐ 673 | 🐛 8 | 🌐 Python | 📅 2026-10-27 - A python decoder for Mode S and ADS-B signals.
 * [sdr-enthusiasts/plane-alert-db](https://github.com/sdr-enthusiasts/plane-alert-db) ⭐ 147 | 🐛 9 | 🌐 Python | 📅 2026-10-24 - A list of exciting aircraft - Governments, Dictators, Military, Historical and just plain odd.
 * [flightmon](https://github.com/mik3y/flightmon) ⭐ 24 | 🐛 1 | 🌐 Go | 📅 2020-06-13 - Simple command-line "GUI" for showing current dump1090/readsb data.
@@ -156,7 +156,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 
 ### Visualisation
 
-* [wiedehopf/tar1090](https://github.com/wiedehopf/tar1090) ⭐ 1,942 | 🐛 52 | 🌐 JavaScript | 📅 2026-10-26 - A great way to view your ADS-B data.
+* [wiedehopf/tar1090](https://github.com/wiedehopf/tar1090) ⭐ 1,943 | 🐛 52 | 🌐 JavaScript | 📅 2026-10-26 - A great way to view your ADS-B data.
 * [amnesica/BelugaProject](https://github.com/amnesica/BelugaProject) ⭐ 90 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-19 - A web application that displays data of one or multiple, local ADS-B feeders and AIS-data along with additional information on a map interface in the browser.
 * [Grafana](https://grafana.com/) - Open source analytics and monitoring solution for every database.
 
@@ -172,7 +172,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 
 ## ADS-B Derived Data
 
-* [aircraft-flight-schedules](https://github.com/MrAirspace/aircraft-flight-schedules) ⭐ 35 | 🐛 0 | 📅 2026-10-14 - Open-source datasets featuring global, high-level flight schedules extracted from worldwide aircraft ADS-B position transmissions (2024+ onwards). Covers all flights globally as long as within coverage of the [ADSBlol](https://adsb.lol/) initiative.
+* [aircraft-flight-schedules](https://github.com/MrAirspace/aircraft-flight-schedules) ⭐ 35 | 🐛 0 | 📅 2026-10-28 - Open-source datasets featuring global, high-level flight schedules extracted from worldwide aircraft ADS-B position transmissions (2024+ onwards). Covers all flights globally as long as within coverage of the [ADSBlol](https://adsb.lol/) initiative.
 
 ## Hardware
 
@@ -245,4 +245,4 @@ This project exists thanks to all the people [that contributed](https://github.c
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._

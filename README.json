@@ -21,7 +21,7 @@
                 "open_issues": 39,
                 "owner": "MalcolmRobb",
                 "repo": "dump1090",
-                "stars": 1111,
+                "stars": 1112,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:20:32.292Z"
@@ -38,11 +38,11 @@
                 "id": 326161007,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-31T11:50:31Z",
-                "open_issues": 12,
+                "last_commit": "2026-11-01T12:40:30Z",
+                "open_issues": 13,
                 "owner": "wiedehopf",
                 "repo": "readsb",
-                "stars": 699,
+                "stars": 701,
                 "topics": [
                   "1090",
                   "1090mhz",
@@ -172,8 +172,8 @@
                 "id": 616883526,
                 "language": "Shell",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-28T02:45:57Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-01T11:44:41Z",
+                "open_issues": 6,
                 "owner": "sdr-enthusiasts",
                 "repo": "docker-adsb-ultrafeeder",
                 "stars": 592,
@@ -218,7 +218,7 @@
                 "open_issues": 3,
                 "owner": "adsblol",
                 "repo": "feed",
-                "stars": 78,
+                "stars": 79,
                 "topics": [
                   "1090",
                   "1090mhz",
@@ -266,7 +266,7 @@
                 "open_issues": 52,
                 "owner": "wiedehopf",
                 "repo": "tar1090",
-                "stars": 1943,
+                "stars": 1944,
                 "topics": [
                   "1090",
                   "1090mhz",
@@ -281,6 +281,48 @@
                 ]
               },
               "first_seen": "2026-08-28T18:20:32.292Z"
+            },
+            {
+              "node_type": "item",
+              "title": "AndrewCTF/velocity",
+              "description": "A self-hosted flight and ship tracker on a 3D globe that records every position it sees so you can replay any moment, and folds in your own receiver's tar1090 or readsb feed.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Self-hosted flight and ship tracker that keeps its own history: rewind any moment, every contact with its source and age. No API keys.",
+                "homepage": "https://projectvelocity.org",
+                "id": 1267515952,
+                "language": "Python",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-10-23T08:21:50Z",
+                "open_issues": 21,
+                "owner": "AndrewCTF",
+                "repo": "velocity",
+                "stars": 149,
+                "topics": [
+                  "3d-globe",
+                  "adsb",
+                  "aircraft-tracking",
+                  "ais",
+                  "cesium",
+                  "fastapi",
+                  "flight-tracking",
+                  "geoint",
+                  "geospatial",
+                  "intelligence-analysis",
+                  "keyless",
+                  "mcp-server",
+                  "open-source-intelligence",
+                  "osint",
+                  "python",
+                  "react",
+                  "satellite-tracking",
+                  "self-hosted",
+                  "typescript",
+                  "vessel-tracking"
+                ]
+              },
+              "first_seen": "2026-11-01T12:52:20.509Z"
             },
             {
               "node_type": "item",
@@ -323,6 +365,40 @@
                 ]
               },
               "first_seen": "2026-08-28T18:20:32.292Z"
+            },
+            {
+              "node_type": "item",
+              "title": "blindp3w/readsbstats",
+              "description": "Self-hosted flight history and statistics web UI for readsb. Stores positions in SQLite with per-flight track maps, a flagged aircraft gallery, a watchlist, a Telegram bot and receiver metrics.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "ADS-B flight history & web UI for readsb",
+                "homepage": null,
+                "id": 1221157235,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-28T18:37:53Z",
+                "open_issues": 0,
+                "owner": "blindp3w",
+                "repo": "readsbstats",
+                "stars": 2,
+                "topics": [
+                  "acars",
+                  "ads-b",
+                  "adsb",
+                  "aviation",
+                  "fastapi",
+                  "flight-tracking",
+                  "mlat",
+                  "raspberry-pi",
+                  "readsb",
+                  "sqlite",
+                  "tar1090",
+                  "vdl2"
+                ]
+              },
+              "first_seen": "2026-11-01T12:52:20.509Z"
             }
           ],
           "description": null,
@@ -424,7 +500,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T11:53:10.469Z",
+    "last_updated": "2026-11-01T12:52:20.509Z",
     "original_repository_info": {
       "archived": false,
       "description": "📡 A curated list of awesome ADS-B tools, projects, images, resources and other shiny things.",
@@ -432,8 +508,8 @@
       "id": 607306805,
       "language": "HTML",
       "license": "CC0-1.0",
-      "last_commit": "2026-09-05T07:25:17Z",
-      "open_issues": 16,
+      "last_commit": "2026-11-01T09:01:03Z",
+      "open_issues": 9,
       "owner": "rickstaa",
       "repo": "awesome-adsb",
       "stars": 399,
@@ -446,7 +522,7 @@
         "tools"
       ]
     },
-    "original_repository_sha": "2b3b7efe5135a536ec8f52c59a9d50cad133c7fb",
+    "original_repository_sha": "b646ba795c16a22cbb2d4939da967eedabe98201",
     "enhanced_repository": "enhansome/enhansome-adsb",
     "enhanced_repository_description": null,
     "title": "Awesome ADS-B with stars"

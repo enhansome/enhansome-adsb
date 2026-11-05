@@ -42,7 +42,7 @@
                 "open_issues": 12,
                 "owner": "wiedehopf",
                 "repo": "readsb",
-                "stars": 704,
+                "stars": 705,
                 "topics": [
                   "1090",
                   "1090mhz",
@@ -266,7 +266,7 @@
                 "open_issues": 52,
                 "owner": "wiedehopf",
                 "repo": "tar1090",
-                "stars": 1951,
+                "stars": 1955,
                 "topics": [
                   "1090",
                   "1090mhz",
@@ -500,7 +500,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T13:57:28.799Z",
+    "last_updated": "2026-11-05T14:17:13.527Z",
     "original_repository_info": {
       "archived": false,
       "description": "📡 A curated list of awesome ADS-B tools, projects, images, resources and other shiny things.",
@@ -512,7 +512,7 @@
       "open_issues": 10,
       "owner": "rickstaa",
       "repo": "awesome-adsb",
-      "stars": 400,
+      "stars": 401,
       "topics": [
         "adsb",
         "awesome",

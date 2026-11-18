@@ -88,7 +88,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 * [airplanes.live](https://airplanes.live) - The mission of Airplanes.Live is to aggregate and provide access to a comprehensive repository of unfiltered aviation data.  Offers map and free API.
 * [ADSB One](https://adsb.one) - A one-stop resource for all aero-related information and a community-driven aggregator for aero-feed data legally dedicated to the public interest.
 * [adsb.fi](https://adsb.fi) - A community-driven flight tracker with hundreds of feeders worldwide that provides open and unfiltered access to worldwide air traffic data.
-* [ADSB.lol](https://adsb.lol) - A completely open-source and community-driven flight tracker that displays and provides [ODbL-licensed](https://opendatacommons.org/licenses/odbl/summary/) data via a [free API](https://api.adsb.lol/) as well as [free historical data](https://github.com/adsblol/globe_history) ⭐ 83 | 🐛 0 | 🌐 Shell | 📅 2026-11-17.
+* [ADSB.lol](https://adsb.lol) - A completely open-source and community-driven flight tracker that displays and provides [ODbL-licensed](https://opendatacommons.org/licenses/odbl/summary/) data via a [free API](https://api.adsb.lol/) as well as [free historical data](https://github.com/adsblol/globe_history) ⭐ 83 | 🐛 0 | 🌐 Shell | 📅 2026-11-18.
 
 ### Community driven
 
@@ -157,7 +157,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 ### Visualisation
 
 * [wiedehopf/tar1090](https://github.com/wiedehopf/tar1090) ⭐ 1,971 | 🐛 52 | 🌐 JavaScript | 📅 2026-10-26 - A great way to view your ADS-B data.
-* [AndrewCTF/velocity](https://github.com/AndrewCTF/velocity) ⭐ 156 | 🐛 23 | 🌐 Python | 📅 2026-10-23 - A self-hosted flight and ship tracker on a 3D globe that records every position it sees so you can replay any moment, and folds in your own receiver's tar1090 or readsb feed.
+* [AndrewCTF/velocity](https://github.com/AndrewCTF/velocity) ⭐ 157 | 🐛 22 | 🌐 Python | 📅 2026-10-23 - A self-hosted flight and ship tracker on a 3D globe that records every position it sees so you can replay any moment, and folds in your own receiver's tar1090 or readsb feed.
 * [amnesica/BelugaProject](https://github.com/amnesica/BelugaProject) ⭐ 91 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-19 - A web application that displays data of one or multiple, local ADS-B feeders and AIS-data along with additional information on a map interface in the browser.
 * [blindp3w/readsbstats](https://github.com/blindp3w/readsbstats) ⭐ 2 | 🐛 3 | 🌐 Python | 📅 2026-11-16 - Self-hosted flight history and statistics web UI for readsb. Stores positions in SQLite with per-flight track maps, a flagged aircraft gallery, a watchlist, a Telegram bot and receiver metrics.
 * [Grafana](https://grafana.com/) - Open source analytics and monitoring solution for every database.
@@ -248,4 +248,4 @@ This project exists thanks to all the people [that contributed](https://github.c
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._

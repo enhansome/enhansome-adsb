@@ -21,7 +21,7 @@
                 "open_issues": 39,
                 "owner": "MalcolmRobb",
                 "repo": "dump1090",
-                "stars": 1115,
+                "stars": 1116,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:20:32.292Z"
@@ -39,7 +39,7 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-11T18:15:53Z",
-                "open_issues": 13,
+                "open_issues": 15,
                 "owner": "wiedehopf",
                 "repo": "readsb",
                 "stars": 707,
@@ -99,8 +99,8 @@
                 "id": 347022933,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-22T01:55:30Z",
-                "open_issues": 9,
+                "last_commit": "2026-11-24T18:55:10Z",
+                "open_issues": 10,
                 "owner": "sdr-enthusiasts",
                 "repo": "plane-alert-db",
                 "stars": 149,
@@ -173,7 +173,7 @@
                 "language": "Shell",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-22T14:58:49Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "sdr-enthusiasts",
                 "repo": "docker-adsb-ultrafeeder",
                 "stars": 609,
@@ -266,7 +266,7 @@
                 "open_issues": 50,
                 "owner": "wiedehopf",
                 "repo": "tar1090",
-                "stars": 1981,
+                "stars": 1982,
                 "topics": [
                   "1090",
                   "1090mhz",
@@ -294,11 +294,11 @@
                 "id": 1267515952,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-24T13:13:36Z",
-                "open_issues": 21,
+                "last_commit": "2026-11-25T04:33:31Z",
+                "open_issues": 22,
                 "owner": "AndrewCTF",
                 "repo": "velocity",
-                "stars": 166,
+                "stars": 177,
                 "topics": [
                   "3d-globe",
                   "adsb",
@@ -451,7 +451,7 @@
                 "open_issues": 10,
                 "owner": "Jxck-S",
                 "repo": "plane-notify",
-                "stars": 2554,
+                "stars": 2555,
                 "topics": [
                   "acas",
                   "ads-b",
@@ -500,7 +500,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T17:11:04.161Z",
+    "last_updated": "2026-11-25T16:56:47.483Z",
     "original_repository_info": {
       "archived": false,
       "description": "📡 A curated list of awesome ADS-B tools, projects, images, resources and other shiny things.",

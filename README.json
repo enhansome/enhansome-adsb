@@ -42,7 +42,7 @@
                 "open_issues": 15,
                 "owner": "wiedehopf",
                 "repo": "readsb",
-                "stars": 707,
+                "stars": 710,
                 "topics": [
                   "1090",
                   "1090mhz",
@@ -99,8 +99,8 @@
                 "id": 347022933,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-24T18:55:10Z",
-                "open_issues": 10,
+                "last_commit": "2026-11-26T11:51:15Z",
+                "open_issues": 7,
                 "owner": "sdr-enthusiasts",
                 "repo": "plane-alert-db",
                 "stars": 149,
@@ -266,7 +266,7 @@
                 "open_issues": 50,
                 "owner": "wiedehopf",
                 "repo": "tar1090",
-                "stars": 1982,
+                "stars": 1985,
                 "topics": [
                   "1090",
                   "1090mhz",
@@ -294,11 +294,11 @@
                 "id": 1267515952,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-25T04:33:31Z",
-                "open_issues": 22,
+                "last_commit": "2026-11-26T14:54:22Z",
+                "open_issues": 21,
                 "owner": "AndrewCTF",
                 "repo": "velocity",
-                "stars": 177,
+                "stars": 195,
                 "topics": [
                   "3d-globe",
                   "adsb",
@@ -500,7 +500,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T16:56:47.483Z",
+    "last_updated": "2026-11-26T16:35:12.873Z",
     "original_repository_info": {
       "archived": false,
       "description": "📡 A curated list of awesome ADS-B tools, projects, images, resources and other shiny things.",
@@ -509,7 +509,7 @@
       "language": "HTML",
       "license": "CC0-1.0",
       "last_commit": "2026-11-01T09:01:03Z",
-      "open_issues": 11,
+      "open_issues": 12,
       "owner": "rickstaa",
       "repo": "awesome-adsb",
       "stars": 404,

@@ -39,7 +39,7 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-11T18:15:53Z",
-                "open_issues": 15,
+                "open_issues": 18,
                 "owner": "wiedehopf",
                 "repo": "readsb",
                 "stars": 710,
@@ -103,7 +103,7 @@
                 "open_issues": 7,
                 "owner": "sdr-enthusiasts",
                 "repo": "plane-alert-db",
-                "stars": 149,
+                "stars": 148,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:20:32.292Z"
@@ -284,48 +284,6 @@
             },
             {
               "node_type": "item",
-              "title": "AndrewCTF/velocity",
-              "description": "A self-hosted flight and ship tracker on a 3D globe that records every position it sees so you can replay any moment, and folds in your own receiver's tar1090 or readsb feed.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Self-hosted flight and ship tracker that keeps its own history: rewind any moment, every contact with its source and age. No API keys.",
-                "homepage": "https://projectvelocity.org",
-                "id": 1267515952,
-                "language": "Python",
-                "license": "AGPL-3.0",
-                "last_commit": "2026-11-26T14:54:22Z",
-                "open_issues": 21,
-                "owner": "AndrewCTF",
-                "repo": "velocity",
-                "stars": 195,
-                "topics": [
-                  "3d-globe",
-                  "adsb",
-                  "aircraft-tracking",
-                  "ais",
-                  "cesium",
-                  "fastapi",
-                  "flight-tracking",
-                  "geoint",
-                  "geospatial",
-                  "intelligence-analysis",
-                  "keyless",
-                  "mcp-server",
-                  "open-source-intelligence",
-                  "osint",
-                  "python",
-                  "react",
-                  "satellite-tracking",
-                  "self-hosted",
-                  "typescript",
-                  "vessel-tracking"
-                ]
-              },
-              "first_seen": "2026-11-01T12:52:20.509Z"
-            },
-            {
-              "node_type": "item",
               "title": "amnesica/BelugaProject",
               "description": "A web application that displays data of one or multiple, local ADS-B feeders and AIS-data along with additional information on a map interface in the browser.",
               "children": [],
@@ -500,7 +458,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T16:35:12.873Z",
+    "last_updated": "2026-11-27T16:20:57.359Z",
     "original_repository_info": {
       "archived": false,
       "description": "📡 A curated list of awesome ADS-B tools, projects, images, resources and other shiny things.",
